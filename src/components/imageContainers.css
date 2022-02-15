@@ -1,0 +1,27 @@
+
+.slick-arrow {
+    color: black;
+}
+.slick-prev {
+    left: 9% !important;
+    z-index: 100;
+  }
+  .slick-next {
+    right: 9% !important;
+    z-index: 100;
+  }
+  .trending_heading{
+    position: relative;
+    display: block;
+    text-align: left;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+.margin_left{
+  margin-left: 160px;
+  margin-top: 40px;
+}
+
+.image_slider{
+  margin-left: 70px;
+}

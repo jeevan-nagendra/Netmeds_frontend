@@ -1,0 +1,20 @@
+.modified{
+    max-width: 80%;
+    max-height: 80%;
+}
+
+.card.modified{
+    max-width: 80%;
+    max-height: 80%;
+}
+.name {
+    margin-left: 5%;
+}
+.sub-headings {
+    margin-left: 1%;
+}.best-price {
+    margin-left: 1%;
+}
+.price  {
+    margin-left: 1%;
+}

@@ -1,0 +1,46 @@
+.top{
+    margin-left:2px;
+    width: 200px;
+    height: 200px;
+    margin-left: 60px;
+    background-color: white;
+}
+.card-element{
+    font-size: 16px;
+    text-align:center;
+    color:black;
+}
+.top_heading{
+ 
+    position: relative;
+    display: block;
+    text-align: left;
+    margin-left: 10px;
+    margin-bottom: 30px;
+    margin-top:20px;
+}
+
+.top_slider{
+    margin-left: 10px;
+    
+}
+
+.top_image{
+    position: relative;
+    text-align: center;
+    
+}
+
+.top_box{
+    size: 40px;
+}
+
+.slick-top{
+    width: 100px;
+}
+
+
+
+div.top{
+    width: 200px;
+}

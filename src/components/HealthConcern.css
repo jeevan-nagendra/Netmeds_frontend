@@ -1,0 +1,17 @@
+.health-card{
+    max-width:200px;
+    background-color: white;
+
+}
+
+
+.health_heading{
+    
+ 
+        position: relative;
+        display: block;
+        text-align: left;
+        margin-left: 10px;
+        margin-bottom: 30px;
+        margin-top:20px;
+}

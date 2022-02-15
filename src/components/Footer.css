@@ -1,0 +1,44 @@
+.footer1{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 30px;
+    
+
+}
+.text{
+    display: inline;
+    margin-left: 20px;
+    justify-content: space-around;
+}
+.footer-handle{
+    display: flex;
+    margin: 30px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.playstore-img{
+    
+    max-width: 100px;
+    max-height: 40px;
+    margin-top: 50px;
+    float: left;
+    margin-left: 50px;
+    display: block;
+}
+.email-enter{
+    float: center;
+    position: relative;
+    display: block;
+    left: 20px;
+    
+}
+
+.footer-last{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-text{
+    text-decoration:none;
+    color:black;
+}

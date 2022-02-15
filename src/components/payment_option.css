@@ -1,0 +1,83 @@
+.payment_heading {
+    position:relative;
+    align-items: flex-start;
+    margin-left: 10px;
+    margin-top:40px;
+    display:block;
+    
+}
+.payment-slide1{
+    display:inline-block;
+    box-sizing: border-box;
+    color: black;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: normal;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: left;
+    width: 213px
+    
+}
+.payment-slide3{
+    display:inline-block;
+    box-sizing: border-box;
+    color: black;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: normal;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: left;
+    width: 213px
+}
+.payment-slide2{
+    display:inline-block;
+    box-sizing: border-box;
+    color: black;
+    font-family: Lato;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: normal;
+    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    text-align: left;
+    width: 213px
+}
+.icon1{
+    max-width: 2%;
+    display: inline;
+}
+
+.payment_block{
+    position: relative;
+    left:10px;
+    display:block;
+}
+
+.box{
+
+    width: 16.9%;
+    height:18.9%;
+    color:lightblue;
+    border: lightcoral;
+    padding-right: 80px;
+    padding-left: 80px;
+    background-color: white;
+    overflow: hidden;
+}
+body{
+    background-color: rgb(232, 238, 240);
+}
+.shop-by-category{
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around; 
+    margin-left: 10px;
+
+}
